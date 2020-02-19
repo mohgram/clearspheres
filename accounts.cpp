@@ -77,7 +77,7 @@ void pinsystem() {
    int accountguess;
    std::cin >> accountguess;
    if(accountguess == mynumbers[0]){
-     account(name, 0);
+     account(Mohamed, 600); 
    } 
    else {
      std::cout << "Sorry, but it's wrong.";
